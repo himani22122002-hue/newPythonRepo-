@@ -116,5 +116,5 @@ for (text, row, col) in buttons:
     btn.bind("<Button-1>", on_click)
     btn.bind("<ButtonRelease-1>", on_release)
 
-# Run app
+#  Run app
 root.mainloop()
